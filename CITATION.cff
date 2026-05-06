@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Agent Eval Public Notes"
+message: "If you use these notes, please cite the repository or related Zenodo artifacts."
+type: software
+authors:
+  - family-names: Katta
+    given-names: Mukunda Rao
+    orcid: "https://orcid.org/0009-0007-6071-3896"
+date-released: "2026-05-06"
+license: MIT
+repository-code: "https://github.com/MukundaKatta/agent-eval-public-notes"
+keywords:
+  - AI agents
+  - agent evaluation
+  - operational scorecards
+  - trajectory replay
+  - RAG guardrails
