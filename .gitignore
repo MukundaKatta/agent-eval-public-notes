@@ -1,0 +1,35 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.cache/
+
+# Local environment / secrets
+.env
+.env.local
+*.local
+
+# Python (for any local tooling used to render or lint notes)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node (for any local Markdown/link-check tooling)
+node_modules/
+npm-debug.log*
+
+# Build / export artifacts
+dist/
+build/
+*.pdf.tmp
